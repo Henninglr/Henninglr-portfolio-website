@@ -39,6 +39,10 @@
   color: var(--color-primary);
 }
 
+.text-light {
+  color: var(--color-light);
+}
+
 /* ================ MEDIA QUERIES (MEDIUM DEVICES) ================== */
 @media screen and (max-width: 64rem) {
   .experience__container {

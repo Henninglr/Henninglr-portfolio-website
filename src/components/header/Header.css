@@ -37,6 +37,13 @@ header {
 }
 
 /* ============== ME ================= */
+.ME {
+  height: 35rem;
+  padding-bottom: 5rem;
+  position: relative;
+  top: -5.5rem;
+}
+
 .me {
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
